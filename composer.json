@@ -8,6 +8,7 @@
         "paknahad/jsonapi-bundle": "^3.0",
         "phootwork/collection": "^1.6",
         "sensio/framework-extra-bundle": "^5.1",
+        "symfony/apache-pack": "^1.0",
         "symfony/asset": "4.3.*",
         "symfony/console": "4.3.*",
         "symfony/dotenv": "4.3.*",
