@@ -46,10 +46,10 @@ https://documenter.getpostman.com/view/4699842/SVmqzgSc?version=latest
 
 ------------
 
-Приложение будет доступно по пути /random-api
+Приложение будет доступно по пути random-api/api/v1
 
 В случае apache:
 
 ~~~
-http://localhost/random-api/public
+http://localhost/random-api/public/api/v1
 ~~~
