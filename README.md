@@ -38,6 +38,12 @@ DATABASE_URL=mysql://root:root@127.0.0.1:3306/random-api
 bin/console migrate
 ~~~
 
+### 4. Документация
+
+~~~
+https://documenter.getpostman.com/view/4699842/SVmqzgSc?version=latest
+~~~
+
 ------------
 
 Приложение будет доступно по пути /random-api
