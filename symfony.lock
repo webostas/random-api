@@ -105,11 +105,35 @@
     "nikic/php-parser": {
         "version": "v4.2.4"
     },
+    "nyholm/psr7": {
+        "version": "1.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "1.0",
+            "ref": "0cd4d2d0e7f646fda75f9944f747a56e6ed13d4c"
+        },
+        "files": [
+            "config/packages/nyholm_psr7.yaml"
+        ]
+    },
     "ocramius/package-versions": {
         "version": "1.4.0"
     },
     "ocramius/proxy-manager": {
         "version": "2.1.1"
+    },
+    "paknahad/jsonapi-bundle": {
+        "version": "v3.0.0"
+    },
+    "phootwork/collection": {
+        "version": "v1.6.1"
+    },
+    "phootwork/lang": {
+        "version": "v0.9"
+    },
+    "php-http/message-factory": {
+        "version": "v1.0.2"
     },
     "phpdocumentor/reflection-common": {
         "version": "1.0.1"
@@ -125,6 +149,12 @@
     },
     "psr/container": {
         "version": "1.0.0"
+    },
+    "psr/http-factory": {
+        "version": "1.0.1"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
     },
     "psr/link": {
         "version": "1.0.0"
@@ -353,6 +383,12 @@
     "symfony/property-info": {
         "version": "v4.3.4"
     },
+    "symfony/proxy-manager-bridge": {
+        "version": "v4.3.4"
+    },
+    "symfony/psr-http-message-bridge": {
+        "version": "v1.2.0"
+    },
     "symfony/routing": {
         "version": "4.2",
         "recipe": {
@@ -507,6 +543,9 @@
     },
     "webmozart/assert": {
         "version": "1.5.0"
+    },
+    "woohoolabs/yin": {
+        "version": "4.0.1"
     },
     "zendframework/zend-code": {
         "version": "3.3.2"
